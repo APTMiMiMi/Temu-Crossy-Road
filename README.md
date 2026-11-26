@@ -11,3 +11,7 @@ Play Now
 # Temu Color
 
 🟠🟧🟠
+
+# PC And Laptop Controls
+
+<img width="333" alt="Controls PC And Laptop - Temu Crossy Road" src="ScreenShots/Controls/Controls_For_PC_And_Laptop_Foto.jpg" />

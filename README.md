@@ -6,3 +6,8 @@ Play Now
 👇
 
 [Play Temu Game](https://aptmimimi.github.io/Temu-Crossy-Road/)
+
+
+# Temu Color
+
+🟠🟧🟠
